@@ -53,7 +53,7 @@ LCLK DPM Enhanced PCIe Detection - Disabled
 SMEE - Disabled
 FFE Write Training - Enabled
 DFE Read Training - Enabled
-ACPI _CST C1 Declaration - Disabled
+ACPI CST C1 Declaration - Disabled
 Fast Short REP MOVSB - Enabled
 Enhanced REP MOVSB/STOSB - Enabled
 REP-MOV/STOS Streaming - Enabled
@@ -124,6 +124,7 @@ SMT Control - Enabled/Auto
 System probe filter - Enabled
 4-link xGMI max speed - 25Gbps
 3-link xGMI max speed - 25Gbps
+PCI link speed - Gen3
 Restore On AC Power Loss - Disabled
 xGMI Link Width Control - Manual
 xGMI Force Link Width - 2
@@ -181,7 +182,7 @@ SmartShift Enable - Disabled
 BME DMA Mitigation - Disabled
 ASPM Support - Disabled
 SB Clock Spread Spectrum - Disabled
-SB Clock Spread Spectrum Option - -0.362%
+SB Clock Spread Spectrum Option -0.362%
 _OSC For PCI0 - Disabled
 SB C1E Support - Disabled
 Bootup NumLock State - Off
