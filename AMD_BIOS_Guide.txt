@@ -124,7 +124,6 @@ SMT Control - Enabled/Auto
 System probe filter - Enabled
 4-link xGMI max speed - 25Gbps
 3-link xGMI max speed - 25Gbps
-PCI link speed - Gen3
 Restore On AC Power Loss - Disabled
 xGMI Link Width Control - Manual
 xGMI Force Link Width - 2
