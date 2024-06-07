@@ -92,8 +92,8 @@ Memory interleaving size - 1 KB
 APBDIS - 1
 DF Cstates - Disabled
 Fixed SOC Pstate - P0
-CPPC - Enabled
-CPPC Preferred Cores - Enabled
+CPPC - Disabled
+CPPC Preferred Cores - Disabled
 Log Poison Data from SLINK - Disabled
 Edpc Control - Disabled
 DRAM map inversion - Enabled
