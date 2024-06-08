@@ -45,7 +45,7 @@ ACP Power Gating - Disabled
 ACP CLock Gating - Disabled
 DRAM Latency Enhance - Enabled
 Power Down Enable - Disabled
-ECO Mode - Disabled
+ECO Mode - Enabled
 LN2 Mode - Disabled
 SoC/Uncore OC Mode - Enabled
 LCLK DPM - Disabled
