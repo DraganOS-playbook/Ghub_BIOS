@@ -1,3 +1,12 @@
+-----------------------------
+This BIOS setting is intended for DraganOS or regular Windows
+Some policies are disabled here, as well as increased FPS and low latency 
+
+if you can’t solve the BIOS or problems write to me 
+Discord - jamergamer_mod
+
+-----------------------------
+
 Adaptive S4 - Disabled
 LAN Power Enable - Disabled
 PM L1 SS - Disabled
