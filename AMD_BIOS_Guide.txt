@@ -35,7 +35,7 @@ Aggressive Link PM Capability - Disabled
 Chipset Power Saving Features - Disabled
 USB Phy Power Down - Disabled
 Remote Display Feature - Disabled
-PSPP Policy - Performance
+PSPP Policy - Performance (usefull for 0.3% fps boost)
 Power Loading - Disabled
 Wake on LAN - Disabled
 GPP Serial Debug Bus Enable - Disabled
@@ -120,7 +120,7 @@ Socket1 DevSlp1 Enable - Disabled
 ACPI SRAT L3 Cache As NUMA Domain - Enabled
 Periodic Directory Rinse - Enabled
 PSS Support - Disabled
-SMT Control - Enabled/Auto
+SMT Control - Disabled
 System probe filter - Enabled
 4-link xGMI max speed - 25Gbps
 3-link xGMI max speed - 25Gbps
@@ -210,7 +210,7 @@ OC Explore Mode - Expert ( do it in bios )
 POST Beep - Disabled
 Boot mode select - UEFI ( leave default if you don't know what this is )
 Info Block effect - Lock
-Full Screen Logo Display - Disabled/0
+Full Screen Logo Display - Enabled/1
 MSI Driver Utility Installer - Disabled
 CPU Fan Fail Warning Control - Disabled
 SD Configuration Mode - 0/SD Dump disabled
