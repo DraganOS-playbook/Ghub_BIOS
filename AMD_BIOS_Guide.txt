@@ -190,7 +190,7 @@ SmartShift Enable - Disabled
 BME DMA Mitigation - Disabled
 ASPM Support - Disabled
 SB Clock Spread Spectrum - Disabled
-SB Clock Spread Spectrum Option -0.362%
+SB Clock Spread Spectrum Option -0.400%
 _OSC For PCI0 - Disabled
 SB C1E Support - Disabled
 Bootup NumLock State - Off
