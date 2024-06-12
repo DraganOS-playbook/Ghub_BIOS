@@ -1,4 +1,13 @@
-﻿Native ASPM - Disabled
+﻿-----------------------------
+This BIOS setting is intended for DraganOS or regular Windows
+Some policies are disabled here, as well as increased FPS and low latency 
+
+if you can’t solve the BIOS or problems write to me 
+Discord - jamergamer_mod
+
+-----------------------------
+
+Native ASPM - Disabled
 ACPI Debug - Disabled
 Low Power S0 Idle Capability - Disabled
 PUIS Enable - Disabled
